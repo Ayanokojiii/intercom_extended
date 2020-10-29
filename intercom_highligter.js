@@ -1,7 +1,10 @@
 // ==UserScript==
-// @name         Highlight Intercom ULTIMATE
+// @name         Highlight Intercom
 // @namespace    Pontica solutions
 // @version      0.1
+// @license      MIT
+// @homepageURL    none
+// @supportURL     none
 // @description  See the world in color — Allows you to distinguish the the on going chats
 // @downloadURL  https://rawcdn.githack.com/Ayanokojiii/intercom_extended/7163e3f0ee94491599e3ab1903713f1355709b3b/intercom_highligter.js
 // @updateURL    https://rawcdn.githack.com/Ayanokojiii/intercom_extended/7163e3f0ee94491599e3ab1903713f1355709b3b/intercom_highligter.js
