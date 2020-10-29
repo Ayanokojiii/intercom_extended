@@ -6,11 +6,11 @@
 // @downloadURL  https://rawcdn.githack.com/Ayanokojiii/intercom_extended/7163e3f0ee94491599e3ab1903713f1355709b3b/intercom_highligter.js
 // @updateURL    https://rawcdn.githack.com/Ayanokojiii/intercom_extended/7163e3f0ee94491599e3ab1903713f1355709b3b/intercom_highligter.js
 // @author       Florian Chague
+// @icon         https://ibb.co/6Hckhy0
 // @match        https://app.intercom.com/a/apps/*
 // @resource      IMPORTED_CSS https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.0/spectrum.min.css
 // @require       https://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.js
 // @require       https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.0/spectrum.min.js
-// @grant        GM log
 // @grant      GM_getResourceText
 // @grant      GM_addStyle
 // @noframes
